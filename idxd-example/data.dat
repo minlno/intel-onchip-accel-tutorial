@@ -1,0 +1,7 @@
+prep,328
+submit,2668
+wait,10726
+full,13722
+wait: 78%
+prep+submit: 22%
+submit: 20%
